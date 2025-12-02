@@ -8,7 +8,7 @@ main:
     weight: 2
 
   - name: "Bio"
-    url: "/bio/"
+    url: "/authors/admin/"
     weight: 3
 
   - name: "Talks"
