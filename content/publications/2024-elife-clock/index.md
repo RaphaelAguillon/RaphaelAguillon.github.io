@@ -26,7 +26,7 @@ links:
     url: "https://doi.org/10.7554/eLife.89499"
 
 abstract: |
- The circadian clock enables anticipation of the day/night cycle in animals ranging from
+The circadian clock enables anticipation of the day/night cycle in animals ranging from
 cnidarians to mammals. Circadian rhythms are generated through a transcription-translation
 feedback loop (TTFL or pacemaker) with CLOCK as a conserved positive factor in animals. However,
 CLOCK’s functional evolutionary origin and mechanism of action in basal animals are unknown. In
