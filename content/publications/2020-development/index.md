@@ -59,5 +59,10 @@ tags:
   - Zebrafish
   - Sensory systems
 
+image:
+  caption: "Olfactory placode visualized in the tg(cxcr4b:GFP) line and CRISPR-targeted at the Neurog1 binding site."
+  focal_point: "center"
+  preview_only: false
+
 featured: false
 ---
