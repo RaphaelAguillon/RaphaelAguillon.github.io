@@ -1,38 +1,46 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ""
 date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  # MAIN BIO SECTION (Fabian-style)
+  - block: markdown
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      headings:
-        about: ""
-        education: ""
-        interests: ""
+      title: "Raphaël Aguillon"
+      subtitle: "Integrative biologist – circadian systems, eco-evo-devo, environmental sensing"
+      text: |-
+        I am an integrative biologist at the Institut de Biologie Physico-Chimique (CNRS, Paris),
+        interested in how environmental cues such as light, temperature and cellular stress
+        reshape gene regulatory networks, development and behaviour.
+
+        My work combines circadian systems biology in the marine diatom *Phaeodactylum tricornutum*
+        with developmental and behavioural chronobiology in cnidarians, to understand how biological
+        rhythms emerge, evolve, break and reorganize across marine ecosystems.
+
+        **Research themes**
+
+        - Circadian transcriptional architecture in microalgae  
+        - Sleep and DNA-damage responses in cnidarians  
+        - Environmental sensing during neural development  
+        - Eco-evo-devo of marine resilience
+
+        [Full bio →](/authors/admin/) · [All publications →](/publications/)
+
+        <!-- Optional portrait on the main page:
+        ![Raphaël Aguillon](/uploads/avatar.jpg)
+        -->
     design:
-      # Gradient background
-      background:
-        gradient_mesh:
-          enable: true
+      columns: "1"
 
-      # Avatar customization
-      avatar:
-        size: medium   # small | medium | large | xl | xxl
-        shape: circle  # circle | square | rounded
-
+  # FEATURED PUBLICATIONS
   - block: collection
     id: papers
     content:
-      title: "Featured Publications"
+      title: "Featured publications"
       filters:
         folders:
           - publications
@@ -41,9 +49,10 @@ sections:
       view: article-grid
       columns: 2
 
+  # RECENT PUBLICATIONS (LIST)
   - block: collection
     content:
-      title: "Recent Publications"
+      title: "Recent publications"
       text: ""
       filters:
         folders:
