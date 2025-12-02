@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Dr
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Raphaël
+last_name: Aguillon
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: �
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,83 +23,73 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoctoral scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Institut de Biologie Physico-Chimique
+    url: http://www.ibpcwp.ibpc.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:raphael.aguillon@outlook.fr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/raphaelaguillon/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=raphaelaguillon
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-1149-0362
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Eco-Development
+  - Developmental Biology
+  - Chronobiology and Sleep
+  - Cellular Ecology
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Development biology (Sensory organ Focus)
+    institution: Paul Sabatier university
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2014-09-01
+    date_end: 2017-12-17
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Deciphering olfactory epithelium development : from cell type diversity to morphogenesis_. Supervised by Dr Patrick Blader and Dre Julie Batut. Published 2 papers in eLife and Development.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      url: 'https://theses.hal.science/tel-02016611/'
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+     
 
-      Minored in Mathematics. President of AI Club.
+    
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Senior postdoctoral scientist
+    company_name: Institut de Biologie Physico-Chimique
+    company_url: 'http://www.ibpcwp.ibpc.fr/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2025-10-01
+    date_end: '2026-10-01'
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Leading research on Molecular Chronobiology in Diatoms.
+  - position: Postdoctoral scientist
+    company_name: Bar Ilan University
+    company_url: 'https://www.biu.ac.il/en'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2019-10-01
+    date_end: 2024-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+     Leading research on Molecular Chronobiology and Sleep in the sea-anemone Nematostella vectensis and the jellyfish Cassiopea andromeda
+    - position: PhD Student
+    company_name: Centre de Biologie du Développment 
+    company_url: 'https://cbi-toulouse.fr/'
+    icon: ''
+    date_start: 2014-09-01
+    date_end: 2017-12-17
+    summary: |
+     Leading research in the Development of the olfactory system in the zebrafish larvae
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
