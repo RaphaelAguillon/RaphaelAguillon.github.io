@@ -58,5 +58,10 @@ tags:
   - Zebrafish
   - Preplacodal ectoderm
 
+image:
+  caption: "In the zebrafish olfactory epithelium, Islet1/2 specifically labels Gnrh3 neurons, revealing their preplacodal origin."
+  focal_point: "center"
+  preview_only: false
+  
 featured: false
 ---
