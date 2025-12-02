@@ -68,7 +68,27 @@ stay attuned to embodied perception and balance in both science and life.
 {{< list_experience >}}
 
 ## Education
-{{< list_education >}}
+education:
+  - area: "PhD in Developmental Biology"
+    institution: "Université Paul Sabatier / CBI, Toulouse, France"
+    date_start: 2014-09-01
+    date_end: 2017-12-17
+
+  - area: "Master 2 – Gene, Cell & Development"
+    institution: "Université Paul Sabatier / CBI, Toulouse, France"
+    date_start: 2013-09-01
+    date_end: 2014-07-01
+
+  - area: "Master 1 – Molecular & Cellular Integrative Biology"
+    institution: "Université Paul Sabatier, Toulouse, France"
+    date_start: 2012-09-01
+    date_end: 2013-07-01
+
+  - area: "Licence – Cellular Biology & Physiology"
+    institution: "Université Paul Sabatier, Toulouse, France"
+    date_start: 2009-09-01
+    date_end: 2012-07-01
+
 
 ## Skills
 {{< list_skills >}}
