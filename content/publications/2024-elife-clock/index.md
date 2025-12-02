@@ -53,6 +53,7 @@ tags:
   - Gene regulation
 
 image:
+  filename: "featured.png"
   caption: "CLOCK mutants in *Nematostella vectensis* are arrhythmic in free-running light condition."
   focal_point: "center"
   preview_only: false
