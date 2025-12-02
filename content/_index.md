@@ -46,7 +46,9 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
+      card:
+        padding: "0.5rem"
 
   # 3) RECENT PUBLICATIONS
   - block: collection
