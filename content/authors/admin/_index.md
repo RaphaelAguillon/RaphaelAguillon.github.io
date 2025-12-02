@@ -6,195 +6,78 @@ title: "Dr Raphaël Aguillon"
 first_name: "Raphaël"
 last_name: "Aguillon"
 
-# Pronouns
-pronouns: "he/him"
+# Profile image (put the file in static/uploads/)
+avatar: "avatar.jpg"
 
-superuser: true
-highlight_name: true
+# Role/position
+role: "Integrative Biologist · Circadian Systems · Eco-Evo-Devo"
 
-# Role / tagline
-role: "Integrative Biologist"
+# Short bio displayed under name
+bio: |
+  I am an integrative biologist studying how organisms sense, encode, and respond to 
+  environmental variation. My work combines chronobiology, developmental biology, 
+  eco-evo-devo, and genomic systems approaches. I investigate how light, temperature, 
+  and stress reshape transcriptional architecture, neural development, and physiology 
+  across scales — from diatoms to cnidarians and vertebrates.
 
-# Affiliation
+# Big photo + social icons
 organizations:
-  - name: "Institut de Biologie Physico-Chimique (IBPC), CNRS, Paris"
-    url: "https://www.ibpc.fr"
+  - name: "Institut de Biologie Physico-Chimique (IBPC), CNRS · Paris"
+    url: "https://www.ibpc.fr/"
 
-# Social profiles
-profiles:
-  - icon: at-symbol
-    url: "mailto:raphael.aguillon@outlook.fr"
-    label: "Email"
-  - icon: brands/linkedin
-    url: "https://www.linkedin.com/in/raphaelaguillon/"
-  - icon: academicons/google-scholar
-    url: "https://scholar.google.com/citations?hl=en&user=Zi1qIEAAAAAJ"
-  - icon: academicons/orcid
-    url: "https://orcid.org/0000-0002-1149-0362"
-  - icon: github
-    url: "https://github.com/RaphaelAguillon"
+# Contact & Social links (icons appear automatically)
+email: "raphael.aguillon@outlook.fr"
+social:
+  - icon: "brands/linkedin"
+    link: "https://www.linkedin.com/in/raphaelaguillon/"
+  - icon: "academicons/orcid"
+    link: "https://orcid.org/0000-0002-1149-0362"
+  - icon: "academicons/google-scholar"
+    link: "https://scholar.google.com/citations?user=Zi1qIEAAAAAJ"
+  - icon: "github"
+    link: "https://github.com/RaphaelAguillon"
 
-# Research interests
-interests:
-  - Marine chronobiology
-  - Eco-Evo-Devo
-  - Environmental sensing & stress responses
-  - Circadian regulation in microalgae & cnidarians
-  - Developmental neurobiology
+# Show this person on the /authors/ page?
+superuser: true
 
-# Education
-education:
-  - area: "PhD in Developmental Biology"
-    institution: "Université Paul Sabatier / CBI Toulouse"
-    icon: ""
-    date_start: 2014-09-01
-    date_end: 2017-12-17
-    summary: |
-      Thesis: *Deciphering olfactory epithelium development: from cell-type diversity to morphogenesis.*  
-      Supervised by Dr Patrick Blader & Dr Julie Batut.  
-      Published first-author papers in **eLife** and **Development**.
-    button:
-      text: "Read Thesis"
-      url: "https://theses.hal.science/tel-02016611/"
+# ----------------------------------------------------------
+# Biography text (Fabian-style)
+# ----------------------------------------------------------
+---
 
-  - area: "Master 2 – Research in Gene, Cell and Developmental Biology"
-    institution: "Université Paul Sabatier / CBI Toulouse"
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2014-07-01
+## About
 
-  - area: "Master 1 – Molecular and Cellular Integrative Biology"
-    institution: "Université Paul Sabatier"
-    icon: ""
-    date_start: 2012-09-01
-    date_end: 2013-07-01
+I am an integrative biologist exploring how environmental cues — light–dark cycles, 
+temperature variation, metabolic and DNA stress — shape cellular decisions, gene 
+regulatory networks and organismal behaviour.  
+My work combines circadian systems biology in *Phaeodactylum tricornutum* with 
+developmental and behavioural chronobiology in cnidarians, aiming to uncover how 
+rhythms emerge, evolve, break, and reorganize across marine ecosystems.
 
-  - area: "Licence – Cellular Biology and Physiology"
-    institution: "Université Paul Sabatier"
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2012-07-01
+Across my career I have moved between embryology (*Danio rerio*), 
+eco-devo-physiology (*Nematostella vectensis*, *Cassiopea*), and transcriptional network 
+analysis in diatoms — developing an approach that links molecules, cells, physiology, 
+behaviour, and ecology.
 
-  - area: "Baccalauréat Technologique – Sciences et Technologies de la Santé et du Social"
-    institution: "Centre National d’Enseignement à Distance"
-    icon: ""
-    date_start: 2007-09-01
-    date_end: 2009-07-01
-
-  - area: "CAP – Métiers du Bois (Menuiserie en Siège d’Art)"
-    institution: "Lycée Professionnel de Revel"
-    icon: ""
-    date_start: 2005-09-01
-    date_end: 2007-07-01
-
-# Professional Experience
-work:
-  - position: "Postdoctoral Scientist"
-    company_name: "Institut de Biologie Physico-Chimique (IBPC), CNRS, Paris"
-    company_url: "https://www.ibpc.fr"
-    icon: ""
-    date_start: "2025-01-01"
-    date_end: ""
-    summary: |
-      Molecular chronobiology in *Phaeodactylum tricornutum*:
-      circadian transcriptional architecture, promoter logic, and gene regulatory networks.
-
-  - position: "Postdoctoral Scientist"
-    company_name: "Bar-Ilan University, Israel"
-    company_url: "https://www.biu.ac.il/en"
-    icon: ""
-    date_start: "2019-10-01"
-    date_end: "2024-12-31"
-    summary: |
-      Molecular mechanisms of chronobiology, sleep regulation, and DNA-damage responses
-      in cnidarians, including *Nematostella vectensis* and *Cassiopea andromeda*.
-
-  - position: "PhD Student"
-    company_name: "Centre de Biologie du Développement (CBD), Toulouse"
-    company_url: "https://cbi-toulouse.fr/"
-    icon: ""
-    date_start: "2014-09-01"
-    date_end: "2017-12-17"
-    summary: |
-      Development of the olfactory system in zebrafish, linking progenitor heterogeneity to
-      sensory organ morphogenesis.
-
-# Grants & Fellowships
-grants:
-  - title: "Azrieli International Postdoctoral Fellowship"
-    awarder: "Azrieli Foundation"
-    date: "2021-06-01"
-    summary: "€172,000 (including €18,000 research funds)."
-
-  - title: "Gonda Brain Research Center Fellowship"
-    awarder: "Gonda Brain Research Center"
-    date: "2020-10-01"
-    summary: "Postdoctoral salary complement."
-
-  - title: "Kolman Tzoref Fellowship"
-    awarder: "Kolman Tzoref Foundation"
-    date: "2019-10-01"
-    summary: "Postdoctoral salary complement."
-
-  - title: "French Ministry of Research PhD Fellowship"
-    awarder: "MESR"
-    date: "2014-09-01"
-    summary: "Three-year doctoral fellowship."
-
-# Teaching & Mentoring
-teaching:
-  - role: "Teaching Assistant – Marine Chronobiology"
-    place: "Inter-University Institute for Marine Sciences, Eilat (Israel)"
-    date_start: "2019"
-    date_end: "2024"
-    summary: "Physiology and chronobiology of cnidarians (MSc & PhD)."
-
-  - role: "Teaching Assistant – Developmental Biology"
-    place: "Université Paul Sabatier, Toulouse"
-    date_start: "2014"
-    date_end: "2017"
-    summary: "Embryology & model systems (undergraduate)."
-
-mentoring:
-  - summary: "Supervised 6 MSc students and 5 PhD students."
-
-# Skills
-skills:
-  - name: Experimental Expertise
-    items:
-      - name: Confocal & 4D live imaging
-        percent: 100
-      - name: Molecular biology (RNAseq → ChIPseq workflows)
-        percent: 95
-      - name: RNA labelling (classical in situ & HCR v3)
-        percent: 100
-      - name: Transgenesis & CRISPR editing
-        percent: 95
-      - name: Cnidarian & zebrafish model systems
-        percent: 100
-      - name: Behavioural setup design & quantitative analysis
-        percent: 90
-
-  - name: Computational Skills
-    items:
-      - name: Quantitative analysis of temporal datasets
-        percent: 90
-      - name: R for transcriptomics
-        percent: 70
-      - name: MATLAB (user level)
-        percent: 60
-      - name: Python (user level)
-        percent: 60
-
-# Languages
-languages:
-  - name: French
-    percent: 100
-  - name: English
-    percent: 100
-  - name: Hebrew
-    percent: 40
+Outside the lab I practice movement training, yoga flow and Gaga dance, which help me 
+stay attuned to embodied perception and balance in both science and life.
 
 ---
 
-To add
+## Experience
+{{< list_experience >}}
+
+## Education
+{{< list_education >}}
+
+## Skills
+{{< list_skills >}}
+
+## Selected Publications
+{{< list_publications limit="6" featured="false" >}}
+
+## Invited Talks
+{{< list_talks >}}
+
+## Contact
+Feel free to reach out regarding collaborations, seminars, or project ideas.
