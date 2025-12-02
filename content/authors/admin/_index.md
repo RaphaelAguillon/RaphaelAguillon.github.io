@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role / tagline
-role: "Integrative biologist – Marine Chronobiology & Eco-Evo-Devo"
+role: "Integrative Biologist"
 
 # Affiliation
 organizations:
@@ -28,7 +28,7 @@ profiles:
   - icon: brands/linkedin
     url: "https://www.linkedin.com/in/raphaelaguillon/"
   - icon: academicons/google-scholar
-    url: "https://scholar.google.com/citations?user=8uIPJ8QAAAAJ"
+    url: "https://scholar.google.com/citations?hl=en&user=Zi1qIEAAAAAJ"
   - icon: academicons/orcid
     url: "https://orcid.org/0000-0002-1149-0362"
   - icon: github
@@ -44,7 +44,7 @@ interests:
 
 # Education
 education:
-  - area: "PhD in Developmental Biology"
+    - area: "PhD in Developmental Biology"
     institution: "Université Paul Sabatier / CBI Toulouse"
     icon: ""
     date_start: 2014-09-01
@@ -56,6 +56,36 @@ education:
     button:
       text: "Read Thesis"
       url: "https://theses.hal.science/tel-02016611/"
+  
+    - area: "Master 2 Research in Gene, Cell and Developmental Biology"
+    institution: "Université Paul Sabatier / CBI Toulouse"
+    icon: ""
+    date_start: 2013-09-01
+    date_end: 2014-07-01
+
+    - area: "Master 1 Molecular and Cellular Integrative Biology"
+    institution: "Université Paul Sabatier"
+    icon: ""
+    date_start: 2012-09-01
+    date_end: 2013-07-01
+
+    - area: "Licence Cellular Biology and Physiology"
+    institution: "Université Paul Sabatier"
+    icon: ""
+    date_start: 2009-09-01
+    date_end: 2012-07-01
+
+    - area: "Baccalaureat Technologique Sciences et Technologies de la Santé et du Social"
+    institution: "Centre Enseignement à Distance"
+    icon: ""
+    date_start: 2007-09-01
+    date_end: 2009-07-01
+
+    - area: "Certificat Aptidude Professionel en Mensuiserie en Siège d'Art"
+    institution: "Lycée enseignement professionel de Revel"
+    icon: ""
+    date_start: 2005-09-01
+    date_end: 2007-07-01
 
 # Professional Experience
 work:
@@ -167,21 +197,4 @@ languages:
 
 ---
 
-Raphaël Aguillon is an integrative biologist whose work bridges marine chronobiology, eco-evo-devo, and
-environmental physiology. He studies how organisms—from diatoms to cnidarians—sense and encode
-environmental variation such as light, temperature, and DNA stress, and how these cues reshape gene
-regulatory networks, development, and behaviour.
-
-He is currently a postdoctoral scientist at the Institut de Biologie Physico-Chimique (CNRS, Paris),
-working on the circadian system of *Phaeodactylum tricornutum*, with a focus on transcriptional
-architecture, promoter logic, and gene regulatory network dynamics.
-
-Before joining IBPC, Raphaël spent over five years in Israel investigating molecular and behavioural
-rhythms in cnidarians, leading to a **Nature Communications** paper demonstrating that DNA damage
-modulates sleep drive in animals lacking a centralized nervous system.
-
-His research philosophy centres on multi-scale integration—from molecules to ecological function—
-forming the basis of his long-term vision for a research group in eco-devo-physiology.
-
-Outside the lab, Raphaël practices Gaga dance, movement training, and regular sport as a way to stay
-attuned to embodied perception and balance.
+To add
