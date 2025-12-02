@@ -10,3 +10,7 @@ main:
   - name: "Bio"
     url: "/bio/"
     weight: 3
+
+  - name: "Talks"
+    url: "/talk/"
+    weight: 4
