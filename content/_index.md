@@ -13,9 +13,7 @@ sections:
     content:
       username: admin
       text: |-
-        I am an integrative biologist studying how the environment shapes the development and behaviour of marine animals. I specifically focus on how rising ocean temperatures during early life influence how nervous systems form and how organisms function later on.
-
-        Using behavioural tracking, live imaging and large-scale molecular analyses in the sea-anemone *N. vectensis*, I link environmental change to its effects on cells, genes and behaviour. My goal is to identify the most vulnerable stages of development to better predict how climate change will alter animal behaviour and marine ecosystems, and to provide evidence that can guide policymakers toward necessary environmental decisions.
+        I am an integrative biologist studying how the **environment** shapes the development and behaviour of marine animals. I focus on how **rising ocean temperatures** during early life influence the formation of nervous systems and affect how organisms function later on. Using behavioural tracking, live imaging and large-scale molecular analyses in the sea-anemone *N. vectensis*, I link environmental change to its effects on cells, genes and behaviour. My goal is to identify the most **vulnerable stages of development** to better predict how **climate change** will alter animal behaviour and marine ecosystems, and to provide evidence that can guide policymakers toward responsible environmental decisions.
 
         Please reach out for potential collaborations, seminars or to discuss projects.
       headings:
