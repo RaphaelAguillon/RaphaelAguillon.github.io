@@ -10,15 +10,15 @@ last_name: "Aguillon"
 avatar: "avatar.jpg"
 
 # Role/position
-role: "Integrative Biologist · Circadian Systems · Eco-Evo-Devo"
+role: "Integrative Biologist"
 
 # Short bio displayed under name
 bio: |
   I am an integrative biologist studying how organisms sense, encode, and respond to 
   environmental variation. My work combines chronobiology, developmental biology, 
   eco-evo-devo, and genomic systems approaches. I investigate how light, temperature, 
-  and stress reshape transcriptional architecture, neural development, and physiology 
-  across scales — from diatoms to cnidarians and vertebrates.
+  from informative to stressful levels reshape transcriptional architecture, neural development, and physiology 
+  across scales and evolution.
 
 # Big photo + social icons
 organizations:
