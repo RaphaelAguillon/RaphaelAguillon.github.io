@@ -8,16 +8,16 @@ design:
 
 sections:
   # 1) PROFESSIONAL SUMMARY + EDUCATION + INTERESTS
+  -sections:
   - block: resume-biography-3
     content:
       username: admin
       text: |-
-      I am an integrative biologist working on Ecological-Development (Eco-Devo). I study how environmental variation, especially temperature, durably reshapes developmental trajectories, nervous-system formation, and behaviour. Using behavioural tracking, functional imaging, genetics and multi-omics in marine invertebrates (mainly N. vectensis), I investigate how environmental cues are encoded across spatial scales (environment to gene) and temporal scales (development and circadian time).
+        I am an integrative biologist working on Ecological-Development (Eco-Devo). I study how environmental variation, especially temperature, durably reshapes developmental trajectories, nervous-system formation, and behaviour. Using behavioural tracking, functional imaging, genetics and multi-omics in marine invertebrates (mainly *N. vectensis*), I investigate how environmental cues are encoded across spatial scales (environment to gene) and temporal scales (development and circadian time).
 
-My goal is to predict how ongoing environmental change reconfigures nervous systems and behavioural traits, and to provide mechanistic insight that informs ecological and societal decision-making.
+        My goal is to predict how ongoing environmental change reconfigures nervous systems and behavioural traits, and to provide mechanistic insight that informs ecological and societal decision-making.
 
-Please reach out for potential collaborations (quantitative behaviour, network-level omics, and larval recruitment ecology), seminars or to discuss projects.
-
+        Please reach out for potential collaborations (quantitative behaviour, network-level omics, and larval recruitment ecology), seminars or to discuss projects.
       headings:
         about: "Professional summary"
         education: "Education"
@@ -27,7 +27,7 @@ Please reach out for potential collaborations (quantitative behaviour, network-l
         gradient_mesh:
           enable: true
       avatar:
-        size: large   # bigger portrait like Fabian
+        size: large
         shape: circle
 
   # 2) FEATURED PUBLICATIONS
