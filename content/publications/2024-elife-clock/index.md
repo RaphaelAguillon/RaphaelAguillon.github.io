@@ -52,5 +52,10 @@ tags:
   - Evolution
   - Gene regulation
 
+image:
+  caption: "CLOCK mutants in *Nematostella vectensis* are arrhythmic in free-running light condition."
+  focal_point: "center"
+  preview_only: false
+
 featured: true
 ---
