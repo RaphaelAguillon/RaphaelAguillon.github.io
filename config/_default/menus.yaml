@@ -14,7 +14,3 @@ main:
   - name: "Bio"
     url: "/authors/admin/"
     weight: 4
-
-  - name: "Press"
-    url: "/press/"
-    weight: 5
