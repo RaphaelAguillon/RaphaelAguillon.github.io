@@ -44,7 +44,7 @@ interests:
 
 # Education
 education:
-    - area: "PhD in Developmental Biology"
+  - area: "PhD in Developmental Biology"
     institution: "Université Paul Sabatier / CBI Toulouse"
     icon: ""
     date_start: 2014-09-01
@@ -56,33 +56,33 @@ education:
     button:
       text: "Read Thesis"
       url: "https://theses.hal.science/tel-02016611/"
-  
-    - area: "Master 2 Research in Gene, Cell and Developmental Biology"
+
+  - area: "Master 2 – Research in Gene, Cell and Developmental Biology"
     institution: "Université Paul Sabatier / CBI Toulouse"
     icon: ""
     date_start: 2013-09-01
     date_end: 2014-07-01
 
-    - area: "Master 1 Molecular and Cellular Integrative Biology"
+  - area: "Master 1 – Molecular and Cellular Integrative Biology"
     institution: "Université Paul Sabatier"
     icon: ""
     date_start: 2012-09-01
     date_end: 2013-07-01
 
-    - area: "Licence Cellular Biology and Physiology"
+  - area: "Licence – Cellular Biology and Physiology"
     institution: "Université Paul Sabatier"
     icon: ""
     date_start: 2009-09-01
     date_end: 2012-07-01
 
-    - area: "Baccalaureat Technologique Sciences et Technologies de la Santé et du Social"
-    institution: "Centre Enseignement à Distance"
+  - area: "Baccalauréat Technologique – Sciences et Technologies de la Santé et du Social"
+    institution: "Centre National d’Enseignement à Distance"
     icon: ""
     date_start: 2007-09-01
     date_end: 2009-07-01
 
-    - area: "Certificat Aptidude Professionel en Mensuiserie en Siège d'Art"
-    institution: "Lycée enseignement professionel de Revel"
+  - area: "CAP – Métiers du Bois (Menuiserie en Siège d’Art)"
+    institution: "Lycée Professionnel de Revel"
     icon: ""
     date_start: 2005-09-01
     date_end: 2007-07-01
