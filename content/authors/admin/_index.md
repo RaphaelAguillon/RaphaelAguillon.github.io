@@ -71,7 +71,7 @@ work:
     company_url: 'http://www.ibpcwp.ibpc.fr/'
     icon: ''
     date_start: 2025-10-01
-    date_end: '2026-10-01'
+    date_end: 2026-10-01
     summary: |2-
       Leading research on Molecular Chronobiology in Diatoms.
   - position: Postdoctoral scientist
