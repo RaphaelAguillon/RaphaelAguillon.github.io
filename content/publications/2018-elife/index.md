@@ -63,5 +63,5 @@ image:
   focal_point: "center"
   preview_only: false
   
-featured: false
+featured: true
 ---
