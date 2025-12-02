@@ -45,7 +45,7 @@ sections:
           - publications
         featured_only: true
     design:
-      view: article-grid
+      view: card
       columns: 3
     
 
