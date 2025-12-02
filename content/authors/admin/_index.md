@@ -72,7 +72,7 @@ work:
     icon: ''
     date_start: 2025-10-01
     date_end: 2026-10-01
-    summary: |2-
+    summary: |
       Leading research on Molecular Chronobiology in Diatoms.
   - position: Postdoctoral scientist
     company_name: Bar Ilan University
