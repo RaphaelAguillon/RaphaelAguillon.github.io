@@ -13,9 +13,11 @@ tags:
   - Jeunes chercheurs
 featured: false
 external_link: "https://www.lemonde.fr/sciences/article/2024/01/15/sciences-a-quoi-revent-les-jeunes-chercheurs_6210927_1650684.html"
----
 
 image:
-  caption: "Raphael in its natural habitat"
+  filename: "featured.jpg"
+  caption: "Raphaël dans son habitat naturel"
   focal_point: "center"
   preview_only: false
+
+---
