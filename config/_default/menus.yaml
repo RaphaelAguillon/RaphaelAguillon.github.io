@@ -14,3 +14,7 @@ main:
   - name: "Talks"
     url: "/talk/"
     weight: 4
+
+    - name: "Press"
+    url: "/post/"
+    weight: 5
