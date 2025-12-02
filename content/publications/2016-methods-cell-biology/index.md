@@ -51,5 +51,11 @@ tags:
   - Developmental biology
   - Methods
 
+image:
+  caption: "Schematic overview of genes essential for neurogenesis in the olfactory, trigeminal, and otic placodes at the 4–5 somite stage."
+  focal_point: "center"
+  preview_only: false
+
+
 featured: false
 ---
