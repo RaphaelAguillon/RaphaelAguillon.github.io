@@ -13,13 +13,11 @@ sections:
     content:
       username: admin
       text: |-
-        I am an integrative biologist studying how the environment shapes the development and behaviour of marine animals. I focus on how changes in temperature during early life influence how nervous systems form and how organisms behave later on.
+        I am an integrative biologist studying how the environment shapes the development and behaviour of marine animals. I specifically focus on how rising ocean temperatures during early life influence how nervous systems form and how organisms function later on.
 
-        To investigate these processes, I work with marine invertebrates such as the sea-anemone *Nematostella vectensis (N. vectensis)* and combine behavioural tracking, live imaging, genetics and large-scale molecular analyses. This approach allows me to connect what happens in the environment with what happens inside cells and genes across both developmental time and daily biological rhythms.
+        Using behavioural tracking, live imaging and large-scale molecular analyses in the sea-anemone *N. vectensis*, I link environmental change to its effects on cells, genes and behaviour. My goal is to identify the most vulnerable stages of development to better predict how climate change will alter animal behaviour and marine ecosystems, and to provide evidence that can guide policymakers toward necessary environmental decisions.
 
-        My goal is to understand how rising ocean temperatures affect the development of nervous systems in marine animals. By identifying the moments in early life when organisms are most sensitive, I aim to help predict how climate change will impact marine ecosystems and support better environmental decisions.
-
-        Please reach out for potential collaborations (quantitative behaviour, network-level omics, and larval recruitment ecology), seminars or to discuss projects.
+        Please reach out for potential collaborations, seminars or to discuss projects.
       headings:
         about: "Professional summary"
         education: "Education"
