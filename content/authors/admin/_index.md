@@ -41,7 +41,7 @@ social:
 superuser: true
 
 # ----------------------------------------------------------
-# Biography text (Fabian-style)
+# Biography text 
 # ----------------------------------------------------------
 ---
 
@@ -65,39 +65,33 @@ stay attuned to embodied perception and balance in both science and life.
 ---
 
 ## Experience
-{{< list_experience >}}
+
+- **2025–present – Postdoctoral Scientist, IBPC (CNRS, Paris)**  
+  Circadian regulation, promoter architecture, and gene regulatory networks in
+  *Phaeodactylum tricornutum*.
+
+- **2019–2024 – Postdoctoral Scientist, Bar-Ilan University (Israel)**  
+  Molecular chronobiology, sleep regulation, and DNA-damage responses in
+  *Nematostella vectensis* and *Cassiopea andromeda*.
+
+- **2014–2017 – PhD Student, Centre de Biologie du Développement (CBD), Toulouse**  
+  Development of the zebrafish olfactory system, linking progenitor heterogeneity,
+  morphogenesis, and neurogenesis.
 
 ## Education
 education:
-  - area: "PhD in Developmental Biology"
-    institution: "Université Paul Sabatier / CBI, Toulouse, France"
-    date_start: 2014-09-01
-    date_end: 2017-12-17
-
-  - area: "Master 2 – Gene, Cell & Development"
-    institution: "Université Paul Sabatier / CBI, Toulouse, France"
-    date_start: 2013-09-01
-    date_end: 2014-07-01
-
-  - area: "Master 1 – Molecular & Cellular Integrative Biology"
-    institution: "Université Paul Sabatier, Toulouse, France"
-    date_start: 2012-09-01
-    date_end: 2013-07-01
-
-  - area: "Licence – Cellular Biology & Physiology"
-    institution: "Université Paul Sabatier, Toulouse, France"
-    date_start: 2009-09-01
-    date_end: 2012-07-01
+- PhD in Developmental Biology – Université Paul Sabatier / CBI Toulouse  
+- Master 2 Recherche  – Gene, Cell & Development – Université Paul Sabatier / CBI Toulouse  
+- Licence – Cellular Biology & Physiology – Université Paul Sabatier  
 
 
 ## Skills
-{{< list_skills >}}
-
-## Selected Publications
-{{< list_publications limit="6" featured="false" >}}
-
-## Invited Talks
-{{< list_talks >}}
+- Confocal and 4D live imaging; quantitative analysis of temporal datasets  
+- Molecular biology from RNA-seq to ChIP-seq; HCR v3 and in situ hybridization  
+- Transgenesis and CRISPR editing in zebrafish and cnidarians  
+- Behavioural setup design and quantitative analysis  
+- Practical use of R, MATLAB, and Python for transcriptomic and network analysis
 
 ## Contact
-Feel free to reach out regarding collaborations, seminars, or project ideas.
+For seminars, collaborations or project ideas, feel free to get in touch by email:
+**raphael.aguillon@outlook.fr**.
