@@ -4,17 +4,9 @@ main:
     weight: 1
 
   - name: "Publications"
-    url: "/publication/"
+    url: "/publications/"
     weight: 2
 
   - name: "Bio"
     url: "/authors/admin/"
     weight: 3
-
-  - name: "News"
-    url: "/news/"
-    weight: 4
-
-  - name: "Projects"
-    url: "/project/"
-    weight: 5
