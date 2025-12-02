@@ -7,13 +7,13 @@ design:
   spacing: "6rem"
 
 sections:
+
   # 1) PROFESSIONAL SUMMARY + EDUCATION + INTERESTS
-  -sections:
   - block: resume-biography-3
     content:
       username: admin
       text: |-
-        I am an integrative biologist working on Ecological-Development (Eco-Devo). I study how environmental variation, especially temperature, durably reshapes developmental trajectories, nervous-system formation, and behaviour. Using behavioural tracking, functional imaging, genetics and multi-omics in marine invertebrates (mainly *N. vectensis*), I investigate how environmental cues are encoded across spatial scales (environment to gene) and temporal scales (development and circadian time).
+        I am an Integrative Biologist working on Ecological-Development (Eco-Devo). I study how environmental variation, especially temperature, durably reshapes developmental trajectories, nervous-system formation, and behaviour. Using behavioural tracking, functional imaging, genetics and multi-omics in marine invertebrates (mainly *N. vectensis*), I investigate how environmental cues are encoded across spatial scales (environment to gene) and temporal scales (development and circadian time).
 
         My goal is to predict how ongoing environmental change reconfigures nervous systems and behavioural traits, and to provide mechanistic insight that informs ecological and societal decision-making.
 
@@ -42,7 +42,6 @@ sections:
     design:
       view: card
       columns: 3
-    
 
   # 3) RECENT PUBLICATIONS
   - block: collection
@@ -87,7 +86,7 @@ sections:
     design:
       columns: "1"
 
-  # 6) RECENT NEWS & PRESS (uses `content/post/`)
+  # 6) RECENT NEWS & PRESS
   - block: collection
     id: news
     content:
