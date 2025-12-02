@@ -1,38 +1,38 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: ""
 date: 2022-10-24
 type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ''
+      text: ""
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: ""
+        education: ""
+        interests: ""
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
+      # Gradient background
       background:
         gradient_mesh:
           enable: true
 
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium   # small | medium | large | xl | xxl
+        shape: circle  # circle | square | rounded
 
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: "Featured Publications"
       filters:
         folders:
           - publications
@@ -43,8 +43,8 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
-      text: ''
+      title: "Recent Publications"
+      text: ""
       filters:
         folders:
           - publications
