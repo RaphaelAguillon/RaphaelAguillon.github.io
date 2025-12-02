@@ -17,7 +17,7 @@ sections:
 
         Please reach out for potential collaborations, seminars or to discuss projects.
       headings:
-        about: "Professional summary"
+        about: "Vision and Approach"
         education: "Education"
         interests: "Research interests"
     design:
