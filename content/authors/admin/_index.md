@@ -81,7 +81,7 @@ work:
     date_start: 2019-10-01
     date_end: 2024-12-31
     summary: |
-     Leading research on Molecular Chronobiology and Sleep in the sea-anemone Nematostella vectensis and the jellyfish Cassiopea andromeda
+      Leading research on Molecular Chronobiology and Sleep in the sea-anemone Nematostella vectensis and the jellyfish Cassiopea andromeda
     - position: PhD Student
     company_name: Centre de Biologie du Développment 
     company_url: 'https://cbi-toulouse.fr/'
@@ -89,7 +89,7 @@ work:
     date_start: 2014-09-01
     date_end: 2017-12-17
     summary: |
-     Leading research in the Development of the olfactory system in the zebrafish larvae
+      Leading research in the Development of the olfactory system in the zebrafish larvae
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
