@@ -12,16 +12,11 @@ sections:
     content:
       username: admin
       text: |-
-        I am an integrative biologist and postdoctoral researcher at the Institut de Biologie
-        Physico-Chimique (CNRS, Paris). My research lies at the interface of marine
-        chronobiology, eco-evo-devo and environmental physiology, with a focus on how light,
-        temperature and DNA damage reshape gene regulatory networks, development and behaviour.
+      I am an integrative biologist working on Ecological-Development (Eco-Devo). I study how environmental variation, especially temperature, durably reshapes developmental trajectories, nervous-system formation, and behaviour. Using behavioural tracking, functional imaging, genetics and multi-omics in marine invertebrates (mainly N. vectensis), I investigate how environmental cues are encoded across spatial scales (environment to gene) and temporal scales (development and circadian time).
 
-        Using time-series transcriptomics, gene regulatory network inference and experimental
-        perturbations in diatoms and cnidarians, I study how biological clocks emerge, adapt and
-        sometimes fail in changing environments.
+My goal is to predict how ongoing environmental change reconfigures nervous systems and behavioural traits, and to provide mechanistic insight that informs ecological and societal decision-making.
 
-        Please reach out for potential collaborations, seminars or to discuss projects.
+Please reach out for potential collaborations (quantitative behaviour, network-level omics, and larval recruitment ecology), seminars or to discuss projects.
 
       headings:
         about: "Professional summary"
