@@ -13,9 +13,11 @@ sections:
     content:
       username: admin
       text: |-
-        I am an Integrative Biologist working on Ecological-Development (Eco-Devo). I study how environmental variation, especially temperature, durably reshapes developmental trajectories, nervous-system formation, and behaviour. Using behavioural tracking, functional imaging, genetics and multi-omics in marine invertebrates (mainly *N. vectensis*), I investigate how environmental cues are encoded across spatial scales (environment to gene) and temporal scales (development and circadian time).
+        I am an integrative biologist studying how the environment shapes the development and behaviour of marine animals. I focus on how changes in temperature during early life influence how nervous systems form and how organisms behave later on.
 
-        My goal is to predict how ongoing environmental change reconfigures nervous systems and behavioural traits, and to provide mechanistic insight that informs ecological and societal decision-making.
+        To investigate these processes, I work with marine invertebrates such as the sea-anemone *Nematostella vectensis (N. vectensis)* and combine behavioural tracking, live imaging, genetics and large-scale molecular analyses. This approach allows me to connect what happens in the environment with what happens inside cells and genes across both developmental time and daily biological rhythms.
+
+        My goal is to understand how rising ocean temperatures affect the development of nervous systems in marine animals. By identifying the moments in early life when organisms are most sensitive, I aim to help predict how climate change will impact marine ecosystems and support better environmental decisions.
 
         Please reach out for potential collaborations (quantitative behaviour, network-level omics, and larval recruitment ecology), seminars or to discuss projects.
       headings:
