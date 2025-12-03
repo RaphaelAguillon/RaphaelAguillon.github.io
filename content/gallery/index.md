@@ -18,6 +18,8 @@ type: page
   </figcaption>
 </figure>
 
+
+
 <figure class="relative group">
   <img src="/uploads/media/gallery/CookingClassLabs2_Dec2024.jpg"
        alt="Cooking workshop"
@@ -32,9 +34,12 @@ type: page
   </figcaption>
 </figure>
 
+
+
+
 <figure class="relative group">
   <img src="/uploads/media/gallery/2CAM5593.jpg"
-       alt="Key Largo sunset"
+       alt="Azrieli retreat"
        class="w-full h-auto rounded-xl shadow-lg" />
 
   <div class="absolute bottom-2 right-2 bg-black/60 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition">
