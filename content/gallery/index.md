@@ -8,18 +8,10 @@ type: page
 <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
 
   <figure>
-    <img src="/media/gallery/nematostella-larva.jpg" alt="Nematostella larva" />
-    <figcaption>Nematostella larva imaged during behavioural tracking.</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/media/gallery/arctic-fieldwork.jpg" alt="Arctic fieldwork" />
-    <figcaption>Sampling under polar light conditions.</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/media/gallery/diatom-culture.jpg" alt="Diatom culture" />
-    <figcaption>*Phaeodactylum* cultures under time-series experiment.</figcaption>
+    <img src="/media/gallery/FS_5-BNWUAU9exr.jpg" alt="Key Largo, Cassiopea's heaven" style="border-radius: 12px;" />
+    <figcaption style="text-align:center; font-size:0.9em;">
+      Fantastic sunset at Key Largo (FL, USA), during Cassiopea sleep field monitoring with Dr Harduf.
+    </figcaption>
   </figure>
 
 </div>
