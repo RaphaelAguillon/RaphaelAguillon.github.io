@@ -7,16 +7,16 @@ main:
     url: "/news/"
     weight: 2
 
+  - name: "Videos"
+    url: "/videos/"
+    weight: 3
+
   - name: "Publications"
     url: "/publications/"
-    weight: 3
+    weight: 4
 
   - name: "Talks"
     url: "/talk/"
-    weight: 4
-
-  - name: "Videos"
-    url: "/videos/"
     weight: 5
 
   - name: "Gallery"
