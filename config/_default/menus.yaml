@@ -15,6 +15,14 @@ main:
     url: "/talk/"
     weight: 4
 
+  - name: "Videos"
+    url: "/videos/"
+    weight: 5
+
+  - name: "Gallery"
+    url: "/gallery/"
+    weight: 6
+
   - name: "Bio"
     url: "/authors/admin/"
-    weight: 5
+    weight: 7
