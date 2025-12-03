@@ -7,11 +7,9 @@ sections:
     content:
       title: "Talks"
       text: ""
-      filters:
-        folders:
-          - talk
+      page_type: talk      # <- use content of type "talk"
       count: 50
     design:
-      view: card
-      columns: 2
+      view: compact        # "compact" = small cards; use "card" if you prefer bigger cards
+      columns: 3           # number of cards per row on wide screens
 ---
